@@ -33,10 +33,24 @@ We build and coach sales teams, design outbound engines, and ship the internal t
       <br><sub><b>AI App Builder · $6.6B Valuation</b></sub>
     </td>
     <td align="center" width="25%">
+      <a href="https://hightouch.com">
+        <img src="https://img.shields.io/badge/Hightouch-6C47FF?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Hightouch" />
+      </a>
+      <br><sub><b>Data Activation & Reverse ETL</b></sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://spire.com">
         <img src="https://img.shields.io/badge/Spire_Global-0B3D91?style=for-the-badge&logo=rocket&logoColor=white" alt="Spire Global" />
       </a>
       <br><sub><b>Satellite Data · NYSE: SPIR</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://closedloop.ai">
+        <img src="https://img.shields.io/badge/ClosedLoop.ai-00B4D8?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ClosedLoop.ai" />
+      </a>
+      <br><sub><b>Healthcare AI & Predictions</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://healthcarousel.com">
@@ -44,8 +58,32 @@ We build and coach sales teams, design outbound engines, and ship the internal t
       </a>
       <br><sub><b>Healthcare Staffing</b></sub>
     </td>
+    <td align="center" width="25%">
+      <a href="https://banknovo.com">
+        <img src="https://img.shields.io/badge/Novo-000?style=for-the-badge&logo=bank&logoColor=white" alt="Novo" />
+      </a>
+      <br><sub><b>Business Banking</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://bendhsa.com">
+        <img src="https://img.shields.io/badge/Bend_HSA-2ECC71?style=for-the-badge&logo=leaf&logoColor=white" alt="Bend HSA" />
+      </a>
+      <br><sub><b>HSA Investing</b></sub>
+    </td>
   </tr>
   <tr>
+    <td align="center" width="25%">
+      <a href="https://thasosgroup.com">
+        <img src="https://img.shields.io/badge/Thasos_Group-1B2A4A?style=for-the-badge&logo=globe&logoColor=white" alt="Thasos Group" />
+      </a>
+      <br><sub><b>Geolocation Analytics</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://stacksource.com">
+        <img src="https://img.shields.io/badge/StackSource-FF6B35?style=for-the-badge&logo=building&logoColor=white" alt="StackSource" />
+      </a>
+      <br><sub><b>Commercial Real Estate Finance</b></sub>
+    </td>
     <td align="center" width="25%">
       <a href="https://inspiredinstruction.com">
         <img src="https://img.shields.io/badge/Inspired_Instruction-FF8C00?style=for-the-badge&logo=bookopen&logoColor=white" alt="Inspired Instruction" />
@@ -53,10 +91,30 @@ We build and coach sales teams, design outbound engines, and ship the internal t
       <br><sub><b>K-12 Education · 4,000+ Schools</b></sub>
     </td>
     <td align="center" width="25%">
+      <a href="https://botmock.com">
+        <img src="https://img.shields.io/badge/BotMock-9B59B6?style=for-the-badge&logo=chatbot&logoColor=white" alt="BotMock" />
+      </a>
+      <br><sub><b>Conversational Design</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
       <a href="https://datarole.com">
         <img src="https://img.shields.io/badge/DataRole-7B68EE?style=for-the-badge&logo=database&logoColor=white" alt="DataRole" />
       </a>
       <br><sub><b>Data & Analytics</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pinshape.com">
+        <img src="https://img.shields.io/badge/Pinshape-E74C3C?style=for-the-badge&logo=printer3d&logoColor=white" alt="Pinshape" />
+      </a>
+      <br><sub><b>3D Printing Marketplace</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://krellergroup.com">
+        <img src="https://img.shields.io/badge/Kreller_Group-34495E?style=for-the-badge&logo=shield&logoColor=white" alt="Kreller Group" />
+      </a>
+      <br><sub><b>Due Diligence & Investigations</b></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://newarkventurepartners.com">
@@ -64,15 +122,12 @@ We build and coach sales teams, design outbound engines, and ship the internal t
       </a>
       <br><sub><b>VC Fund · Advisor</b></sub>
     </td>
-    <td align="center" width="25%">
-      <br><sub><i>& more</i></sub>
-    </td>
   </tr>
 </table>
 
 <br>
 
-## 💰 Backed by leading investors
+## 💰 Backed by leading investors and accelerators
 
 <p>The companies we partner with are funded by top-tier firms:</p>
 
@@ -95,6 +150,8 @@ We build and coach sales teams, design outbound engines, and ship the internal t
 
 <p>
   <b>Accelerators:</b>
+  <img src="https://img.shields.io/badge/Y_Combinator-F0652F?style=flat-square&logo=ycombinator&logoColor=white" alt="Y Combinator" />
+  <img src="https://img.shields.io/badge/500_Startups-000?style=flat-square&logo=500px&logoColor=white" alt="500 Startups" />
   <img src="https://img.shields.io/badge/NVP_Accelerator-1a1a2e?style=flat-square" alt="NVP" />
   <img src="https://img.shields.io/badge/The_Brandery-E34234?style=flat-square" alt="Brandery" />
   <img src="https://img.shields.io/badge/Lemnos_Labs-FF8C00?style=flat-square" alt="Lemnos" />
@@ -124,8 +181,4 @@ I was born with a cleft lip and wrote a children's book about it in kindergarten
   <a href="https://offdeck.com"><img src="https://img.shields.io/badge/offdeck.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/lipmanb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:brandon@offdeck.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brandonlipman&style=flat-square&color=58A6FF" alt="Profile views" />
 </p>
