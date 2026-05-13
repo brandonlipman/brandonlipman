@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Brandon 👋</h1>
+<h1 align="center">Hey, I'm Brandon - CEO of OffDeck 👋</h1>
 
 <p align="center">
   <a href="https://offdeck.com"><img src="https://img.shields.io/badge/CEO_%26_Founder-OffDeck-blue?style=for-the-badge" alt="OffDeck" /></a>
