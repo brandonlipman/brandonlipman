@@ -4,17 +4,37 @@
 
 We build and coach sales teams, design outbound engines, and ship the internal tools that make growth repeatable. Clients range from seed-stage to publicly traded across crypto, space tech, healthcare, AI dev tools, and more.
 
+---
+
+### Companies we've worked with
+
+|                                                             |                                      |                                                                  |                                                   |
+| :---------------------------------------------------------: | :----------------------------------: | :--------------------------------------------------------------: | :-----------------------------------------------: |
+|          **[Chainlink Labs](https://chain.link)**           |  **[Lovable](https://lovable.dev)**  |              **[Spire Global](https://spire.com)**               | **[Health Carousel](https://healthcarousel.com)** |
+|                  Blockchain Infrastructure                  |            AI App Builder            |                    Satellite Data & Analytics                    |                Healthcare Staffing                |
+| **[Inspired Instruction](https://inspiredinstruction.com)** | **[DataRole](https://datarole.com)** | **[Newark Venture Partners](https://newarkventurepartners.com)** |                                                   |
+|                       K-12 Education                        |           Data & Analytics           |                        VC Fund (Advisor)                         |                                                   |
+
+### Backed by leading investors and accelerators
+
+The companies we partner with are funded by some of the top firms in tech:
+
+**Accel** · **CapitalG** (Google) · **Khosla Ventures** · **Menlo Ventures** · **Salesforce Ventures** · **Tiger Global** · **BlackRock** · **Bessemer Venture Partners** · **Framework Ventures** · **RRE Ventures** · **Qualcomm Ventures** · **Databricks Ventures** · **Hummingbird VC** · **byFounders**
+
+Accelerators: **NVP Accelerator** · **The Brandery** · **Lemnos Labs**
+
+---
+
 ### What I'm working on
 
 - Building AI-powered growth infrastructure and agent tooling at OffDeck
 - Contributing to open-source AI agent frameworks ([OpenClaw](https://github.com/openclaw/openclaw), [gbrain](https://github.com/garrytan/gbrain))
-- Advising startups on growth strategy as an advisor at [Newark Venture Partners](https://newarkventurepartners.com)
+- Advising startups on growth strategy at [Newark Venture Partners](https://newarkventurepartners.com)
 
 ### Background
 
 - **TechCrunch Disrupt Battlefield** alum and [TechCrunch contributor](https://techcrunch.com/author/brandon-lipman/)
 - Co-founded **3DLT**, a 3D printing marketplace (SXSW V2V, TechCrunch Disrupt NY)
-- Growth advisor to teams at **Chainlink Labs**, **Lovable**, **Spire Global**, and others
 - Studied Entrepreneurship at **Xavier University**
 
 ### Beyond work
